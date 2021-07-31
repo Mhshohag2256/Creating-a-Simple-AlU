@@ -1,0 +1,91 @@
+Restore Archived Project report for Shohag_ALU
+Thu Jul 22 12:06:42 2021
+Quartus Prime Version 16.0.0 Build 211 04/27/2016 SJ Lite Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Restore Archived Project Summary
+  3. Restore Archived Project Messages
+  4. Files Restored
+  5. Files Not Restored
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 1991-2016 Altera Corporation. All rights reserved.
+Your use of Altera Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Altera Program License 
+Subscription Agreement, the Altera Quartus Prime License Agreement,
+the Altera MegaCore Function License Agreement, or other 
+applicable license agreement, including, without limitation, 
+that your use is for the sole purpose of programming logic 
+devices manufactured by Altera and sold by Altera or its 
+authorized distributors.  Please refer to the applicable 
+agreement for further details.
+
+
+
++-------------------------------------------------------------------------+
+; Restore Archived Project Summary                                        ;
++---------------------------------+---------------------------------------+
+; Restore Archived Project Status ; Successful - Thu Jul 22 12:06:42 2021 ;
+; Revision Name                   ; Shohag_ALU                            ;
+; Top-level Entity Name           ; Shohag_RT_Register                    ;
+; Family                          ; Cyclone V                             ;
++---------------------------------+---------------------------------------+
+
+
++-----------------------------------+
+; Restore Archived Project Messages ;
++-----------------------------------+
+Info: Successfully restored 'S:/College/CCNY/Summer 2021/CSC 342 and 343/Final Lab/Shohag_ALU.qar' into the 'S:/College/CCNY/Summer 2021/CSC 342 and 343/Final Lab/Shohag_ALU_restored/' directory
+Info: Generated report 'Shohag_ALU.restore.rpt'
+Info (23030): Evaluation of Tcl script c:/altera_lite/16.0/quartus/common/tcl/apps/qpm/qar.tcl was successful
+Info: Quartus Prime Shell was successful. 0 errors, 0 warnings
+    Info: Peak virtual memory: 4774 megabytes
+    Info: Processing ended: Thu Jul 22 12:06:42 2021
+    Info: Elapsed time: 00:00:02
+    Info: Total CPU time (on all processors): 00:00:01
+
+
++-----------------------------+
+; Files Restored              ;
++-----------------------------+
+; File Name                   ;
++-----------------------------+
+; qar_info.json               ;
+; Shohag_ALU.qpf              ;
+; Shohag_ALU.qsf              ;
+; Shohag_Adder_Subtractor.vhd ;
+; Shohag_BITWISE_OR.vhd       ;
+; Shohag_IMM16_Register.vhd   ;
+; Shohag_MAR_Register.vhd     ;
+; Shohag_MDR.vhd              ;
+; Shohag_MUX2to1.vhd          ;
+; Shohag_RD_Register.vhd      ;
+; Shohag_RS_Register.vhd      ;
+; Shohag_RT_Register.vhd      ;
+; Shohag_Register_N_VHDL.vhd  ;
+; Shohag_alu_package.vhd      ;
+; Shohag_bitwise_and.vhd      ;
+; Shohag_bitwise_not.vhd      ;
+; assignment_defaults.qdf     ;
++-----------------------------+
+
+
++--------------------+
+; Files Not Restored ;
++--------------------+
+; File Name          ;
++--------------------+
+
+
